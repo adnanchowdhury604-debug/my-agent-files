@@ -33,6 +33,7 @@ Date: 2026-04-04
 4. **Better niche** — Pivot to birthstones only? (only thing getting clicks)
 5. **How should I pivot to get sales?** — What's missing?
 6. **Why am I only getting window shoppers?** — What's causing this?
+7. **Should I increase the daily budget?** — More ad spend?
 
 ---
 
