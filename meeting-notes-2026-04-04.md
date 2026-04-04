@@ -27,12 +27,12 @@ Date: 2026-04-04
 
 ## Key Questions to Discuss
 
-1. Why no sales? Is it design, pricing, products, or niche?
-2. Should we redesign? Remove black background?
-3. Better pricing strategy?
-4. Different or focused products?
-5. Pivot to birthstones only (only thing getting clicks)?
-6. How to stop being "window shoppers" only?
+1. **Website design** — Should I redesign? Remove black background?
+2. **Better pricing** — What pricing strategy works?
+3. **More products** — How many to add?
+4. **Better niche** — Pivot to birthstones only? (only thing getting clicks)
+5. **How should I pivot to get sales?** — What's missing?
+6. **Why am I only getting window shoppers?** — What's causing this?
 
 ---
 
