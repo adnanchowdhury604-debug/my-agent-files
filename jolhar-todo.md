@@ -21,6 +21,9 @@ Last Updated: 2026-04-04
 
 ## Store Improvements
 
+- [ ] Build new pictures for new products
+- [ ] Review all descriptions on Shopify
+- [ ] Review SEO titles and meta descriptions
 - [ ] Add trust badges near "Add to Cart"
 - [ ] Enable Apple Pay / Google Pay checkout
 - [ ] Create bundle offer (Buy 2 for $49)
