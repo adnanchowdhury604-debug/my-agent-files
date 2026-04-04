@@ -15,6 +15,16 @@ Date: 2026-04-04
 
 ---
 
+## ⚠️ Important: Analytics Note for Romas
+
+**Shopify Analytics Issue:**
+- "Sessions by landing page" only shows original 10 products
+- **No new products uploaded yet** — need to add new inventory
+
+**Action needed:** Upload new products before next meeting so we can track which products are getting traffic.
+
+---
+
 ## Key Questions to Discuss
 
 1. Why no sales? Is it design, pricing, products, or niche?
