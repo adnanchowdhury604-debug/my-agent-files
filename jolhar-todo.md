@@ -30,6 +30,7 @@ Last Updated: 2026-04-04
 - [ ] Set up Klaviyo for abandoned cart emails
 - [ ] Upload new products to track in analytics
 - [ ] A/B test lighter homepage design
+- [ ] Research Meta Ads Library and Kalodata for competitor products
 
 ---
 
