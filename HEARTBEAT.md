@@ -6,7 +6,7 @@ Action:
 1. Run web search for trending jewelry products on TikTok
 2. Run web search for trending jewelry on Instagram
 3. Update tiktok-trending-jewelry.md with new trends
-4. Update instagram-trending-jewelry. md with new trends
+4. Update instagram-trending-jewelry.md with new trends
 5. Commit and push to GitHub repo
 
 Notes: 
